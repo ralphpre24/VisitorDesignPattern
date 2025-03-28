@@ -9,3 +9,5 @@ Implement a visitor design pattern approach. You must show the different element
 UML Class Diagram:
 ![Uploading image.png…]()
 
+![Uploading image.png…]()
+
